@@ -4,7 +4,7 @@
 
 - [![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/auriceliomatos/auriceliomatos)[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/auricelionevesmatos/)
 - ![auriceliomatos GitHub stats](https://github-readme-stats.vercel.app/api?username=auriceliomatos&show_icons=true&theme=gruvbox)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auriceliomatos&layout=compact&langs_count=7&theme=dracula)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auriceliomatos&layout=compact&langs_count=7&theme=dracula)
 ## tecnologias que uso
 <div style="display:inline_block"></br>
 <img aling="center" alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
