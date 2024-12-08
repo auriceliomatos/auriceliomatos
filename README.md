@@ -2,7 +2,8 @@
 - 💻 Bacharel em Sistema de Informação
 - 💻 aluno: EBAC --> Desenvolvedor Full Stack Python v2
 
-- [![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/auriceliomatos/auriceliomatos)[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/auricelionevesmatos/)
+
+- [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/auricelionevesmatos/)
 - ![auriceliomatos GitHub stats](https://github-readme-stats.vercel.app/api?username=auriceliomatos&show_icons=true&theme=gruvbox)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auriceliomatos&layout=compact&langs_count=7&theme=dracula)
 ## tecnologias que uso
